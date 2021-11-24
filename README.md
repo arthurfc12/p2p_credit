@@ -1,4 +1,4 @@
-# AtivosDigitaiS_Blockchain
+# p2p Credit
 
 Sistema de empréstimos de créditos p2p
 
